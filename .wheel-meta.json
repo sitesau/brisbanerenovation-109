@@ -1,0 +1,22 @@
+{
+  "wheel_id": 953,
+  "structure": "umbrella",
+  "slug": "brisbanerenovation-109",
+  "project": "renovation-builders-brisbane-budget-tips-3058c46ed9dfb22300180b",
+  "parent_t1_ref": "brisbanerenovation-158",
+  "node_role": "feeder",
+  "money_target": "brisbanerenovation.com.au",
+  "primary_kw": "renovation builders brisbane budget tips",
+  "intended_url": "https://sitesau.github.io/brisbanerenovation-109/",
+  "tier": "T2",
+  "writeback_nonce": "140d2d43e063839f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/renovation-builders-brisbane-faq-7cb5a2ee2639bbf497bf52dcce68a0/",
+      "anchor": "the renovation builders brisbane faq overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
